@@ -1,2 +1,2 @@
 # swppGitTutorial
-Hello world from local!
+Hello world from local! and also remote!
